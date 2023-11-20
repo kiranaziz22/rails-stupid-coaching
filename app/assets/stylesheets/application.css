@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+.question {
+
+
+}
+.answer {
+
+}
+.ask-form{
+  width: 50%;
+  margin:40px auto;
+  padding-top: 50px;
+
+}
